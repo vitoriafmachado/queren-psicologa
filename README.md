@@ -124,7 +124,7 @@ A construção visual utiliza:
 ## Desenvolvedora
 
 **Vitória Machado**  
-Estudante de Engenharia de Software  
+Estudante de análise e desenvolvimento de sistemas - una 
 Desenvolvedora Front-End focada em experiências digitais modernas, interfaces elegantes e projetos visuais criativos.
 
 GitHub: https://github.com/vitoriafmachado
