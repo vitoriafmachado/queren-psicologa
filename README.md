@@ -1,90 +1,145 @@
-# 🧠 Queren Psicóloga — Landing Page Profissional
+# Queren Psicóloga
 
-Projeto desenvolvido para a psicóloga Queren com foco em presença digital moderna, elegante e acolhedora.
-A proposta foi criar uma experiência visual minimalista e contemporânea, transmitindo leveza, profissionalismo e conexão humana.
-
-🌐 Site publicado:
-https://queren-psicologa.vercel.app/
-
-📸 Instagram da profissional:
-https://www.instagram.com/queren.psi/
+Landing page institucional desenvolvida para fortalecer a presença digital da psicóloga Queren através de uma experiência visual sofisticada, moderna e acolhedora.
 
 ---
 
-# ✨ Sobre o projeto
+## Sumário
 
-Este projeto consiste em uma landing page desenvolvida para apresentar a identidade profissional da psicóloga Queren de forma moderna e visualmente envolvente.
-
-O design aposta em:
-
-* estética clean e sofisticada
-* animações suaves
-* efeitos 3D na fotografia principal
-* responsividade
-* navegação leve e intuitiva
-
-O objetivo foi fugir de páginas tradicionais e criar algo mais atual, tecnológico e humano ao mesmo tempo.
-
----
-
-# 🚀 Tecnologias utilizadas
-
-* HTML5
-* CSS3
-* JavaScript
+- [Visão Geral](#visão-geral)
+- [Preview](#preview)
+- [Tecnologias](#tecnologias)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Diferenciais](#diferenciais)
+- [Responsividade](#responsividade)
+- [Deploy](#deploy)
+- [Objetivo do Projeto](#objetivo-do-projeto)
+- [Desenvolvedora](#desenvolvedora)
+- [Status](#status)
 
 ---
 
-# 🎨 Diferenciais do projeto
+## Visão Geral
 
-* Efeito 3D interativo na imagem principal
-* Interface minimalista
-* Design contemporâneo
-* Experiência fluida e moderna
-* Responsividade para dispositivos móveis
-* Animações suaves para maior imersão
+Este projeto foi desenvolvido com foco em transmitir:
 
----
+- profissionalismo
+- leveza visual
+- conexão humana
+- elegância contemporânea
+- experiência fluida e intuitiva
 
-# 💡 Conceito visual
-
-A identidade visual foi construída pensando em:
-
-* acolhimento
-* modernidade
-* elegância
-* sensação de leveza
-* presença profissional digital forte
-
-O projeto utiliza tons suaves, espaçamento clean e movimento sutil para transmitir conforto visual e sofisticação.
+A proposta foi criar uma landing page moderna, minimalista e visualmente refinada, fugindo dos modelos tradicionais da área da psicologia.
 
 ---
 
-# 📱 Responsividade
+## Preview
 
-A aplicação foi desenvolvida para funcionar em:
+### Website
+🔗 https://queren-psicologa.vercel.app/
 
-* Desktop
-* Tablets
-* Smartphones
-
----
-
-# 🌎 Publicação
-
-O projeto foi publicado utilizando a plataforma Vercel, permitindo deploy rápido, moderno e otimizado para performance.
+### Instagram Profissional
+🔗 https://www.instagram.com/queren.psi/
 
 ---
 
-# 👩‍💻 Desenvolvedora
+## Tecnologias
 
-Projeto desenvolvido por Vitória Machado.
-Formada em Análise e Desenvolvimento de Sistemas • UNA
-Apaixonada por tecnologia, interfaces modernas e experiências digitais criativas.
+O projeto foi desenvolvido utilizando tecnologias front-end puras, priorizando performance e carregamento rápido.
+
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-# 📌 Status do projeto
+## Estrutura do Projeto
 
-✅ Finalizado
-🚀 Em constante evolução para melhorias futuras
+```bash
+queren-psicologa/
+│
+├── ativos/
+├── favicon.ico
+├── favicon_32x32.png
+├── index.html
+├── estilos.css
+├── script.js
+├── queren-video.mp4
+├── jenny-portrait.jpg
+├── sobre-detalhes.jpg
+└── README.md
+```
+
+---
+
+## Diferenciais
+
+- Layout moderno e sofisticado
+- Interface minimalista
+- Efeito 3D interativo na imagem principal
+- Animações suaves
+- Experiência imersiva
+- Navegação intuitiva
+- Estrutura otimizada
+- Design responsivo
+
+---
+
+## Responsividade
+
+A aplicação foi construída para oferecer compatibilidade e adaptação em diferentes dispositivos:
+
+- Desktop
+- Notebook
+- Tablet
+- Smartphones
+
+---
+
+## Deploy
+
+A publicação do projeto foi realizada utilizando a plataforma Vercel, garantindo:
+
+- alta performance
+- deploy simplificado
+- carregamento rápido
+- estabilidade de hospedagem
+
+---
+
+## Objetivo do Projeto
+
+O principal objetivo foi desenvolver uma presença digital forte, moderna e elegante para a profissional, utilizando design contemporâneo aliado à sensibilidade visual da área da psicologia.
+
+A construção visual utiliza:
+
+- tons suaves
+- espaçamento limpo
+- microanimações
+- tipografia refinada
+- elementos modernos de interface
+
+---
+
+## Desenvolvedora
+
+**Vitória Machado**  
+Estudante de Engenharia de Software  
+Desenvolvedora Front-End focada em experiências digitais modernas, interfaces elegantes e projetos visuais criativos.
+
+GitHub: https://github.com/vitoriafmachado
+
+---
+
+## Status
+
+```diff
++ Projeto finalizado
++ Em constante evolução para futuras melhorias
+```
+
+---
+
+## Licença
+
+Este projeto foi desenvolvido para fins profissionais e de portfólio.
